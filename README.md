@@ -47,7 +47,7 @@ The `_printf` function supports the following conversion specifiers:
 - `%d`: Signed decimal integer
 - `%i`: Signed decimal integer
 
-Note that the function does not support flag characters, field width, precision, or length modifiers, as specified in the project requirements.
+The function does not support flag characters, field width, precision, or length modifiers, as specified in the project requirements.
 
 ## Compilation
 
